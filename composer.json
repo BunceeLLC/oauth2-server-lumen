@@ -1,9 +1,16 @@
 {
     "name": "optimus/oauth2-server-lumen",
     "description": "A Lumen bridge for lucadegasperi/oauth2-server-laravel",
+    "repositories"
     "require": {
         "BunceeLLC/oauth2-server-laravel": "~4.0"
     },
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/BunceeLLC/oauth2-server-laravel"
+        }
+    ],
     "authors": [
         {
             "name": "Esben Petersen",
