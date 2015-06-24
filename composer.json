@@ -1,6 +1,6 @@
 {
-    "name": "BunceeLLC/oauth2-server-lumen",
-    "description": "A Lumen bridge for BunceeLLC/oauth2-server-laravel (forked from lucadegasperi/oauth2-server-laravel)",
+    "name": "optimus/oauth2-server-lumen",
+    "description": "A Lumen bridge for lucadegasperi/oauth2-server-laravel",
     "require": {
         "BunceeLLC/oauth2-server-laravel": "~4.0"
     },
