@@ -3,7 +3,7 @@
     "description": "A Lumen bridge for lucadegasperi/oauth2-server-laravel",
     "repositories"
     "require": {
-        "BunceeLLC/oauth2-server-laravel": "~4.0"
+        "BunceeLLC/oauth2-server-laravel": "dev-buncee"
     },
     "repositories": [
         {
